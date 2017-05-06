@@ -1,3 +1,3 @@
-#Python Projects
+# Python Projects
 
-Python review in progress
+Repo for my old python files and just a python playground in general.
